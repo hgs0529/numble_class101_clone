@@ -95,7 +95,6 @@ const SearchInput = styled.div`
             margin: 0px;
           `}
   }
-
   button {
     line-height: 20px;
     font-size: 14px;
@@ -106,6 +105,7 @@ const SearchInput = styled.div`
     color: rgba(0, 0, 0, 0.4);
     padding: 0px;
     white-space: nowrap;
+    height: 20px;
   }
 `;
 
